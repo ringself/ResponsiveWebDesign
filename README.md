@@ -36,7 +36,7 @@ Demo预览地址：http://ali-062323w.hz.ali.com/media/demo1.htm
 
 
 
-Css代码demo：（可以利用less或者SCSS动态生成css）
+Css代码demo：（可以利用less或者scss动态生成css）
 
 /* 1390 */	
 .max1440 xx{}
